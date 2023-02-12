@@ -1,8 +1,11 @@
 # trabajo-en-clase
 aprendiendo a usar github
 
+![holi](https://github.com/recorcholis12/trabajo-en-clase--proyecto/blob/main/hola.jpg "Me gustan las vaquitas")
 
-![Descripción de la imagen](https://i.pinimg.com/564x/65/5f/5b/655f5b8001dce323df696212c07fbeda.jpg/800/600)
+#  **PRESENTACION DE MI PROYECTO**
 
+### PROGRAMA PARA RECURSOS HUMANOS
+-----
 
-
+***El programa esta en lenguaje java y consiste  en que se pueda agregar , buscar, eliminar, modificar y listar un usuario***
