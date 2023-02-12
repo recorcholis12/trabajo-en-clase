@@ -9,3 +9,5 @@ aprendiendo a usar github
 -----
 
 ***El programa esta en lenguaje java y consiste  en que se pueda agregar , buscar, eliminar, modificar y listar un usuario***
+
+- **AGREGAR:** una persona puede agregar un candidato  completando su informacio (nombre, apellido, cedula, edad, cargo)
