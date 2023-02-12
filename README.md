@@ -16,3 +16,6 @@ aprendiendo a usar github
 - **ELIMINAR:** consiste en en eliminar un candidado de el archivo :punch:
 - **modificar:** el programa permite modificar la informacion de un candidato	:sunglasses:
 - **listar:**  esta funcion muestra todos los candidatos que hay en el archiv :ok_hand:
+![](https://github.com/recorcholis12/trabajo-en-clase--proyecto/blob/main/Captura%20de%20pantalla_20230212_064516.png)
+
+![](http://spa.cartoonnetworkla.com/)![giphy](https://user-images.githubusercontent.com/124840031/218344741-bad93a2e-a228-44b3-80d0-e674ba3a80e2.gif "psdt: llore, pero se pudo")
